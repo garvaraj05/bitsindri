@@ -1,5 +1,5 @@
 Website Overview:
-The official website for the college BIT Sindri has been developed that serves as a hub for students, faculty, alumni, and prospective students. The website is designed to showcase the history of the college, academic excellence, facilities, campus life, and overall identity of BIT Sindri. The goal is to offer a minimalist design and a  user-friendly interface that allows easy navigation and access to important information about the institution.
+The official website for the college BIT Sindri has been developed that serves as a hub for students, faculty, alumni, and prospective students. The website is designed to showcase the history of the college, academic excellence, facilities, campus life, and overall identity of BIT Sindri. The goal is to offer a clean and minimalist design and a  user-friendly interface that allows easy navigation and access to important information about the institution.
 
 Key Functionalities:
 1.	Homepage:
